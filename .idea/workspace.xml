@@ -5,7 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5d18423-9362-4842-8613-8bd48e8436fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/EmployeTestApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/EmployeTestApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/Applicant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/Applicant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/ApplicantController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/ApplicantController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/ApplicantDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/ApplicantDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/ApplicantRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/ApplicantRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/Applicant_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/applicantModule/core/Applicant_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/dto/MessageResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/dto/MessageResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Club.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Club.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/ClubRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/ClubRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Club_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Club_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/PlayerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/PlayerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/PlayerRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/PlayerRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Player_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/playerModule/core/Player_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/AuthRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/AuthRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/AuthResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/AuthResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/CustomUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/JwtRequestFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/JwtRequestFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/JwtUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/JwtUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/PassEncodeClss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/PassEncodeClss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/SecurityConfigTestc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/config/SecurityConfigTestc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/entity/AuthorityPermission.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/entity/AuthorityPermission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/entity/AuthorityPermission_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/entity/AuthorityPermission_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/repo/AuthorityPermissionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/repo/AuthorityPermissionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/service/DynamicPermissionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/secrty/service/DynamicPermissionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalProcess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalProcessRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalProcessRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalProcess_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalProcess_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalStepRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalStepRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalStep_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ApprovalStep_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/AssignmentRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/AssignmentRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/AttendController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/AttendController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/EmpAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/EmpAssignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/EmpAssignment_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/EmpAssignment_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrCrEmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrCrEmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrCrEmpRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrCrEmpRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrCrEmp_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrCrEmp_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftAssign.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftAssign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftAssignRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftAssignRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftAssign_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftAssign_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftDtl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftDtl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftDtl_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftDtl_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/HrTlShftRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ProcessController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/testModuleForTest/ProcessController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/RoleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/Role_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/Role_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/User_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userDtl/User_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userRoleReg/createRole/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userRoleReg/createRole/RoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/userRoleReg/userReg/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/userRoleReg/userReg/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/WorkerDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/WorkerDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/WorkerSpecification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/WorkerSpecification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Task_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Task_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Taskrepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Taskrepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/WorkerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/WorkerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/WorkerControllerExtra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/WorkerControllerExtra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Worker_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Worker_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Workerrepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmployeTest/workerModule/core/Workerrepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/EmployeTest/EmployeTest/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/EmployeTest/EmployeTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicantModule/core/Applicant_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/playerModule/core/Club_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/playerModule/core/Player_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testModuleForTest/ApprovalProcess_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testModuleForTest/ApprovalStep_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testModuleForTest/EmpAssignment_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testModuleForTest/HrCrEmp_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testModuleForTest/HrTlShftAssign_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testModuleForTest/HrTlShftDtl_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/userDtl/Role_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/userDtl/User_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/workerModule/core/Task_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/workerModule/core/Worker_.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +98,48 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2oW84ClnEuOFsSIq2tuSJ6ERu0H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/spring-security-series"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/spring-security-series&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="EmployeTestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeTest.EmployeTestApplication" />
+      <module name="EmployeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EmployeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeTestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
