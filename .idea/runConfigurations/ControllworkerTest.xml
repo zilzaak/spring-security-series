@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ControllworkerTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-    <module name="EmployeTest" />
+    <module name="JUNIT_TEST" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="EmployeTest.EmployeTest.*" />
