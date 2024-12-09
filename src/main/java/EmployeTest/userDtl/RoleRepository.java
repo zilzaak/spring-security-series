@@ -6,7 +6,6 @@ import java.util.List;
 
 public interface RoleRepository extends JpaRepository<Role, Long> {
     Role findByRoleName(String roleName);
-
     boolean existsByRoleName(String super_admin);
 
     boolean existsByAuthority(String authority);
